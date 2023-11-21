@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    display: grid;
+    place-content: center;
+    height: 80svh;
+}
